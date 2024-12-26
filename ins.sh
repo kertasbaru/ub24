@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Universall Lunatic all os deb 10,11,12 ubu 20,22,24
-
+export DEBIAN_FRONTEND=noninteractive
 
 # Warna dan format
 Green="\e[92;1m"
